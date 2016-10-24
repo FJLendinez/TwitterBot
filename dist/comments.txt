@@ -1,0 +1,10 @@
+﻿##Para escribir tweets de forma automática
+##Escribe [Tweet] y en la línea siguiente escribe la fecha con el formato [[dd/mm/aaaa hh:mm:ss]]
+##escribe el contenido del tweet
+## "##" sirve tanto para comentar como para finalizar un tweet. 
+
+
+[Tweet]
+[[24/10/2016 00:00:00]]
+Son las 00:00:00
+## 
